@@ -1,4 +1,4 @@
-#!bin/usr/bin/env python3
+#!/usr/bin/env python3
 
 a=int(input("Enter a number less than 25\n"))
 
